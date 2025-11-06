@@ -16,23 +16,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a la programación y Java (Matias)
 * **Descripción**: ¿Qué es la programación? ¿Qué es Java y por qué usarlo?
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Empieza a programar**: `[Abrir OnlineGDB - Lección 1] (pendiente)`
+* **Enlace**: https://youtu.be/d38E3oYqOXk
+* **Empieza a programar**: https://onlinegdb.com/JPpIGmG7qe
 
 ### Lección 2: Sintaxis básica: Variables y Tipos de Datos (Matias)
 * **Descripción**: Aprende a almacenar datos usando variables y los tipos de datos principales como `int` y `String`.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/EG8DP3FDObI
+* **Práctica**: https://onlinegdb.com/GoEVlyajvk
 
 ### Lección 3: Operadores y Expresiones (Matias)
 * **Descripción**: Descubre cómo realizar operaciones matemáticas y lógicas en Java.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/RHomwCudGno
+* **Práctica**: https://onlinegdb.com/WFqfDFg7b
 
 ### Lección 4: Estructuras de Datos Simples: Arrays y Cadenas (Matias)
 * **Descripción**: Aprende a manipular colecciones de datos simples como arrays y cadenas (Strings).
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/ObBAlnOA_vM
+* **Práctica**: https://onlinegdb.com/uwRkoEuFck
 
 ### Lección 5: Estructuras de Control (Fernando)
 * **Descripción**: Haz que tu programa tome decisiones con sentencias `if-else` y repita tareas con bucles `for` y `while`.
