@@ -14,33 +14,60 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### Lección 1: Introducción, Variables y Operadores (Matias)
-
-* **Descripción**: Aprende qué es la programación y Java. Cubriremos la sintaxis básica, cómo almacenar datos en variables (`int`, `String`), operadores y la manipulación simple de arrays o cadenas.
+### Lección 1: Introducción a la programación y Java (Matias)
+* **Descripción**: ¿Qué es la programación? ¿Qué es Java y por qué usarlo?
 * **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Conclusiones clave**: Java es un lenguaje popular; `int edad = 17;`; `String nombre = "EcoCrop";`.
 * **Empieza a programar**: `[Abrir OnlineGDB - Lección 1] (pendiente)`
 
-### Lección 2: Control, Métodos y Entrada/Salida (Fernando)
-
-* **Descripción**: Aprende a tomar decisiones con sentencias `if-else` y a repetir tareas con bucles (`for`, `while`). Crearemos código reutilizable con métodos (funciones) y aprenderemos a recibir datos del usuario usando la consola (`Scanner`).
+### Lección 2: Sintaxis básica: Variables y Tipos de Datos (Matias)
+* **Descripción**: Aprende a almacenar datos usando variables y los tipos de datos principales como `int` y `String`.
 * **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Conclusiones clave**: `if (condicion) { ... }`; `public static void miMetodo() { ... }`; `Scanner input = new Scanner(System.in);`.
 * **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
 
-### Lección 3: Introducción a la POO (Sebastian)
-
-* **Descripción**: ¡El gran salto a la Programación Orientada a Objetos (POO)! Aprende qué son las Clases, los Objetos y los Constructores. Entenderemos los principios básicos de Encapsulación (usando getters/setters) e instanciación simple.
+### Lección 3: Operadores y Expresiones (Matias)
+* **Descripción**: Descubre cómo realizar operaciones matemáticas y lógicas en Java.
 * **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Conclusiones clave**: `class Cultivo { ... }`; `Cultivo papa = new Cultivo();`; `public String getNombre() { ... }`.
 * **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
 
-### Lección 4: Programa POO y Buenas Prácticas (Jamiil)
-
-* **Descripción**: ¡Hora de combinar todo! Desarrollaremos un programa básico usando POO (ej. un registro de "Estudiante" o "Cultivo"). También cubriremos las mejores prácticas y los errores comunes para principiantes.
+### Lección 4: Estructuras de Datos Simples: Arrays y Cadenas (Matias)
+* **Descripción**: Aprende a manipular colecciones de datos simples como arrays y cadenas (Strings).
 * **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Conclusiones clave**: Combinar clases y métodos; depurar errores comunes.
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 5: Estructuras de Control (Fernando)
+* **Descripción**: Haz que tu programa tome decisiones con sentencias `if-else` y repita tareas con bucles `for` y `while`.
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 6: Métodos (Funciones) y Parámetros (Fernando)
+* **Descripción**: Aprende a crear bloques de código reutilizables (métodos) que pueden recibir información (parámetros).
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 7: Entrada/Salida Básica (Fernando)
+* **Descripción**: Aprende cómo tu programa puede recibir información del usuario usando la consola (Scanner).
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 8: Introducción a la POO: Clases y Objetos (Sebastian)
+* **Descripción**: El gran salto a la Programación Orientada a Objetos (POO). Aprende qué son las Clases, Objetos, constructores y métodos simples.
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 9: Principios Básicos de POO (Sebastian)
+* **Descripción**: Entiende los conceptos fundamentales de la POO como la Encapsulación (usando getters/setters) e instanciación simple.
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+
+### Lección 10: Desarrollo de un Programa Básico POO (Jamiil)
+* **Descripción**: ¡Hora de combinar todo! Desarrolla una aplicación POO simple, como un registro de estudiantes o un juego de adivinanzas.
+* **Enlace**: `[YouTube – No listado] (pendiente)`
 * **Proyecto final**: `[Crea tu aplicación POO en OnlineGDB] (pendiente)`
+
+### Lección 11: Mejores Prácticas y Errores Comunes (Jamiil)
+* **Descripción**: Cubriremos las mejores prácticas para escribir código limpio y revisaremos los errores más comunes para principiantes.
+* **Enlace**: `[YouTube – No listado] (pendiente)`
+* **Recursos**: `[Ver Resumen] (pendiente)`
 
 ---
 
@@ -51,10 +78,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
-| 1 | Sintaxis y Variables | `[OnlineGDB] (pendiente)` |
-| 2 | Bucles y Métodos | `[OnlineGDB] (pendiente)` |
-| 3 | Clases y Objetos (POO) | `[OnlineGDB] (pendiente)` |
-| 4 | Programa POO Final | `[OnlineGDB] (pendiente)` |
+| 1 | ¿Qué es Java? | `[OnlineGDB] (pendiente)` |
+| 2 | Variables y Tipos | `[OnlineGDB] (pendiente)` |
+| 3 | Operadores | `[OnlineGDB] (pendiente)` |
+| 4 | Arrays y Cadenas | `[OnlineGDB] (pendiente)` |
+| 5 | Control (If/Bucles) | `[OnlineGDB] (pendiente)` |
+| 6 | Métodos | `[OnlineGDB] (pendiente)` |
+| 7 | Scanner | `[OnlineGDB] (pendiente)` |
+| 8 | Clases y Objetos | `[OnlineGDB] (pendiente)` |
+| 9 | Encapsulación | `[OnlineGDB] (pendiente)` |
+| 10 | Proyecto POO | `[OnlineGDB] (pendiente)` |
+| 11 | Mejores Prácticas | N/A |
 
 * **Cuestionario**: `[Prueba de conocimientos] (pendiente)`
 * **Compartir**: `#JavaBeginners`
@@ -73,10 +107,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Docente**: `[Completar Docente según PDF]` (Ver lista en pág. 1 del PDF)
 * **Líder del equipo**: `[Completar Líder del equipo]`
 * **Integrantes del equipo**:
-    * Matias (Lección 1)
-    * Fernando (Lección 2)
-    * Sebastian (Lección 3)
-    * Jamiil (Lección 4)
+    * Matias (Lecciones 1-4)
+    * Fernando (Lecciones 5-7)
+    * Sebastian (Lecciones 8-9)
+    * Jamiil (Lecciones 10-11)
 * **Fecha de entrega**: `[Completar]`
 
 ---
