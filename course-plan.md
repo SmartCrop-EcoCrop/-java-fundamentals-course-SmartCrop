@@ -47,10 +47,9 @@
 
 ## Lección 10: Desarrollo de un Programa Básico POO ([JhosepAC](https://github.com/JhosepAC))
 * **Descripción**: ¡Hora de combinar todo! Desarrolla una aplicación POO simple, como un registro de estudiantes o un juego de adivinanzas.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Proyecto final**: `[Crea tu aplicación POO en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/ymSVfcbKQXA
+* **Proyecto final**: https://onlinegdb.com/ygKSLyyg9
 
 ## Lección 11: Mejores Prácticas y Errores Comunes ([JhosepAC](https://github.com/JhosepAC))
 * **Descripción**: Cubriremos las mejores prácticas para escribir código limpio y revisaremos los errores más comunes para principiantes.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Recursos**: `[Ver Resumen] (pendiente)`
+* **Enlace**: https://youtu.be/4aBbaDM59z0

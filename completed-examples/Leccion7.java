@@ -22,9 +22,6 @@ System.out.println("Lo sabia, tu petatiaste a esa persona de color "+ color+ " a
   }
 }
 
-
-
-
  */
 /*
  import java.util.Scanner;
